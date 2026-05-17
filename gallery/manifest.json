@@ -5,6 +5,7 @@
     "title": "Halved-kit duel (HERO)",
     "category": "head-to-head",
     "style_key": "F-twocolour-duel",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -14,6 +15,7 @@
     "title": "Golden-hour duel",
     "category": "head-to-head",
     "style_key": "2-golden-duel-2col",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -23,6 +25,7 @@
     "title": "Night floodlit duel",
     "category": "head-to-head",
     "style_key": "3-night-duel-2col",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -32,6 +35,7 @@
     "title": "Explosive low-angle duel",
     "category": "head-to-head",
     "style_key": "4-explosive-duel-2col",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -41,6 +45,7 @@
     "title": "Foot v foot - sun flare",
     "category": "head-to-head",
     "style_key": "foot-v1-flare",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -50,6 +55,7 @@
     "title": "Foot v foot - strike clash",
     "category": "head-to-head",
     "style_key": "foot-v3-strike",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -59,6 +65,7 @@
     "title": "Foot v foot - ground level",
     "category": "head-to-head",
     "style_key": "foot-v4-groundlevel",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -68,6 +75,7 @@
     "title": "Single player hero",
     "category": "club-spotlight",
     "style_key": "4b-hero-2col",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -77,6 +85,7 @@
     "title": "Home crowd - dusk",
     "category": "club-spotlight",
     "style_key": "crowd-night",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -86,6 +95,7 @@
     "title": "Home crowd - golden hour",
     "category": "club-spotlight",
     "style_key": "crowd-goldenhour",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -95,6 +105,7 @@
     "title": "Fan hero - daytime",
     "category": "club-spotlight",
     "style_key": "fan-hero-day",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -104,6 +115,7 @@
     "title": "Fan POV from stands",
     "category": "stadium-atmosphere",
     "style_key": "B-fan-pov",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -113,6 +125,7 @@
     "title": "Cinematic ball in motion",
     "category": "stadium-atmosphere",
     "style_key": "A-ball-motion",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -122,6 +135,7 @@
     "title": "Pitch / tunnel pre-match",
     "category": "stadium-atmosphere",
     "style_key": "3-pitch-tunnel",
+    "format": "square",
     "status": "approved",
     "reusable": true
   },
@@ -131,6 +145,17 @@
     "title": "Epic wide stadium bowl",
     "category": "stadium-atmosphere",
     "style_key": "5b-epic-bowl",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-F-twocolour-duel-landscape.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-F-twocolour-duel-landscape.png",
+    "title": "Halved-kit duel (HERO)",
+    "category": "head-to-head",
+    "style_key": "F-twocolour-duel",
+    "format": "landscape",
     "status": "approved",
     "reusable": true
   }

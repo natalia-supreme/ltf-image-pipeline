@@ -48,6 +48,7 @@ def publish(records: list[dict], config: dict) -> Path | None:
             "title": r.get("title", src.stem),
             "category": r.get("category", ""),
             "style_key": r.get("style_key", ""),
+            "format": r.get("format", "square"),  # square | landscape
             "status": r.get("status", "approved"),
             "reusable": r.get("reusable", False),
         })

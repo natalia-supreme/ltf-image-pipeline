@@ -30,6 +30,7 @@ def main() -> None:
         "title": item["title"],
         "category": item["category"],
         "style_key": item["style_key"],
+        "format": item.get("format", "square"),
         "status": item["status"],
         "reusable": item["reusable"],
     } for item in seed]
