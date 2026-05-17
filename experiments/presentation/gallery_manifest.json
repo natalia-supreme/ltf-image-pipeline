@@ -1,0 +1,98 @@
+[
+  {
+    "file": "arsenal-burnley-F-twocolour-duel.png",
+    "style_key": "F-twocolour-duel",
+    "title": "Halved-kit duel (HERO)",
+    "category": "head-to-head",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-2-golden-duel-2col.png",
+    "style_key": "2-golden-duel-2col",
+    "title": "Golden-hour duel",
+    "category": "head-to-head",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-3-night-duel-2col.png",
+    "style_key": "3-night-duel-2col",
+    "title": "Night floodlit duel",
+    "category": "head-to-head",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-4-explosive-duel-2col.png",
+    "style_key": "4-explosive-duel-2col",
+    "title": "Explosive low-angle duel",
+    "category": "head-to-head",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-foot-v1-flare.png",
+    "style_key": "foot-v1-flare",
+    "title": "Foot v foot - sun flare",
+    "category": "head-to-head",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-foot-v3-strike.png",
+    "style_key": "foot-v3-strike",
+    "title": "Foot v foot - strike clash",
+    "category": "head-to-head",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-foot-v4-groundlevel.png",
+    "style_key": "foot-v4-groundlevel",
+    "title": "Foot v foot - ground level",
+    "category": "head-to-head",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-B-fan-pov.png",
+    "style_key": "B-fan-pov",
+    "title": "Fan POV from stands",
+    "category": "stadium-atmosphere",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-A-ball-motion.png",
+    "style_key": "A-ball-motion",
+    "title": "Cinematic ball in motion",
+    "category": "stadium-atmosphere",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-3-pitch-tunnel.png",
+    "style_key": "3-pitch-tunnel",
+    "title": "Pitch / tunnel pre-match",
+    "category": "stadium-atmosphere",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-4b-hero-2col.png",
+    "style_key": "4b-hero-2col",
+    "title": "Single hero, golden bowl",
+    "category": "stadium-atmosphere",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-5b-epic-bowl.png",
+    "style_key": "5b-epic-bowl",
+    "title": "Epic wide stadium bowl",
+    "category": "stadium-atmosphere",
+    "status": "approved",
+    "reusable": true
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "file": "arsenal-burnley-F-twocolour-duel.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-F-twocolour-duel.png",
+    "title": "Halved-kit duel (HERO)",
+    "category": "head-to-head",
+    "style_key": "F-twocolour-duel",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-2-golden-duel-2col.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-2-golden-duel-2col.png",
+    "title": "Golden-hour duel",
+    "category": "head-to-head",
+    "style_key": "2-golden-duel-2col",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-3-night-duel-2col.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-3-night-duel-2col.png",
+    "title": "Night floodlit duel",
+    "category": "head-to-head",
+    "style_key": "3-night-duel-2col",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-4-explosive-duel-2col.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-4-explosive-duel-2col.png",
+    "title": "Explosive low-angle duel",
+    "category": "head-to-head",
+    "style_key": "4-explosive-duel-2col",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-foot-v1-flare.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-foot-v1-flare.png",
+    "title": "Foot v foot - sun flare",
+    "category": "head-to-head",
+    "style_key": "foot-v1-flare",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-foot-v3-strike.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-foot-v3-strike.png",
+    "title": "Foot v foot - strike clash",
+    "category": "head-to-head",
+    "style_key": "foot-v3-strike",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-foot-v4-groundlevel.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-foot-v4-groundlevel.png",
+    "title": "Foot v foot - ground level",
+    "category": "head-to-head",
+    "style_key": "foot-v4-groundlevel",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-B-fan-pov.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-B-fan-pov.png",
+    "title": "Fan POV from stands",
+    "category": "stadium-atmosphere",
+    "style_key": "B-fan-pov",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-A-ball-motion.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-A-ball-motion.png",
+    "title": "Cinematic ball in motion",
+    "category": "stadium-atmosphere",
+    "style_key": "A-ball-motion",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-3-pitch-tunnel.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-3-pitch-tunnel.png",
+    "title": "Pitch / tunnel pre-match",
+    "category": "stadium-atmosphere",
+    "style_key": "3-pitch-tunnel",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-4b-hero-2col.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-4b-hero-2col.png",
+    "title": "Single hero, golden bowl",
+    "category": "stadium-atmosphere",
+    "style_key": "4b-hero-2col",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-5b-epic-bowl.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-5b-epic-bowl.png",
+    "title": "Epic wide stadium bowl",
+    "category": "stadium-atmosphere",
+    "style_key": "5b-epic-bowl",
+    "status": "approved",
+    "reusable": true
+  }
+]

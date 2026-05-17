@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+
+# Generated output
+data/images/*
+data/library.json
+data/output.csv
+!data/images/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

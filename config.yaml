@@ -1,0 +1,66 @@
+# ============================================================
+#  LTF Image Pipeline — configuration
+#  Edit THIS file to change behaviour. No code changes needed.
+# ============================================================
+
+feed:
+  # The XML feed to pull events from.
+  url: "https://www.livefootballtickets.com/feeds/all-glad.xml"
+  # The XML tag that wraps a single event.
+  item_element: "match"
+  # Only generate for these categories. Leave empty [] to allow all.
+  # Example: ["English Premier League", "Spanish La Liga"]
+  only_categories:
+    - "English Premier League"
+  # Skip events whose datetime is in the past.
+  skip_past_events: true
+
+prompt:
+  # Which prompt template file to use (in the prompts/ folder).
+  template_file: "football.txt"
+
+fal:
+  # The FAL model to call.
+  model: "fal-ai/nano-banana-2"
+  # Extra arguments passed straight to FAL. Check the model's page on
+  # fal.ai for the exact accepted argument names if generation fails.
+  arguments:
+    num_images: 1
+  # Image sizes to produce per event. One FAL call per size.
+  # Google Search image assets: 1:1 (required), 1.91:1 (optional).
+  sizes:
+    - label: "square"
+      width: 1200
+      height: 1200
+    - label: "landscape"
+      width: 1200
+      height: 628
+
+reuse:
+  # Reuse model: images are tagged by an entity so a good image can be
+  # reused for any future event with the same tag.
+  enabled: true
+  # How to derive the reuse tag from a feed field.
+  derive_tag_from: "name"   # feed field to read
+  split_on: " vs "          # split the value on this
+  take: "first"             # "first" = home team, "last" = away team
+  # Only reuse images that have been marked reusable in library.json.
+  only_reuse_marked: true
+
+output:
+  images_dir: "data/images"
+  library_file: "data/library.json"
+  csv_file: "data/output.csv"
+
+publish:
+  # Copy finished images into a git-tracked folder and write a manifest
+  # of public URLs the Lovable gallery (or anything) can read.
+  enabled: true
+  target: "github"          # only "github" supported for now
+  github:
+    owner: "natalia-supreme"   # temp home — transfer to Mark later
+    repo: "ltf-image-pipeline"
+    branch: "main"
+    folder: "gallery"       # tracked folder the images are copied into
+  # The pipeline copies files + writes gallery/manifest.json. It does
+  # NOT git push automatically — you commit & push (see README).

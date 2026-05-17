@@ -1,0 +1,41 @@
+# ============================================================
+#  Team colour map
+# ------------------------------------------------------------
+#  Used to build the invented two-colour kit per fixture.
+#  These are CLUB COLOURS (identity), not official kit designs
+#  — the pipeline deliberately invents a non-official kit.
+#
+#  Hybrid lookup:
+#    - team in this table  -> instant, hand-verified (the normal case)
+#    - team NOT in table   -> pipeline does an ad-hoc search, then
+#                             appends it here with auto: true so it
+#                             is only searched once (and can be
+#                             hand-corrected afterwards).
+#
+#  auto: false  = hand-verified, trusted
+#  auto: true   = filled automatically by search, review recommended
+#
+#  Edit any colour freely — the pipeline always reads this file.
+# ============================================================
+
+teams:
+  Arsenal:                       { primary: "red",        secondary: "white",    auto: false }
+  Aston Villa:                   { primary: "claret",     secondary: "sky blue", auto: false }
+  Bournemouth:                   { primary: "red",        secondary: "black",    auto: false }
+  Brentford:                     { primary: "red",        secondary: "white",    auto: false }
+  Brighton & Hove Albion:        { primary: "blue",       secondary: "white",    auto: false }
+  Burnley:                       { primary: "claret",     secondary: "sky blue", auto: false }
+  Chelsea:                       { primary: "blue",       secondary: "white",    auto: false }
+  Crystal Palace:                { primary: "red",        secondary: "blue",     auto: false }
+  Everton:                       { primary: "blue",       secondary: "white",    auto: false }
+  Fulham:                        { primary: "white",      secondary: "black",    auto: false }
+  Leeds United:                  { primary: "white",      secondary: "blue",     auto: false }
+  Liverpool:                     { primary: "red",        secondary: "white",    auto: false }
+  Manchester City:               { primary: "sky blue",   secondary: "white",    auto: false }
+  Manchester United:             { primary: "red",        secondary: "white",    auto: false }
+  Newcastle United:              { primary: "black",      secondary: "white",    auto: false }
+  Nottingham Forest:             { primary: "red",        secondary: "white",    auto: false }
+  Sunderland:                    { primary: "red",        secondary: "white",    auto: false }
+  Tottenham Hotspur:             { primary: "white",      secondary: "navy",     auto: false }
+  West Ham United:               { primary: "claret",     secondary: "sky blue", auto: false }
+  Wolverhampton Wanderers:       { primary: "gold",       secondary: "black",    auto: false }
