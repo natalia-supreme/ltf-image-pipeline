@@ -75,8 +75,8 @@ instead, or reuse even unmarked images).
 
 ## Cost
 
-~$0.04 per image (FAL `nano-banana-2`). The reuse model means you pay
-once per team, not once per fixture — a full Premier League season is a
+~$0.08 per image (FAL `nano-banana-2`). The reuse model means you pay
+once per team, not once per match — a full Premier League season is a
 few dollars, not hundreds. `--dry-run` costs nothing.
 
 ---

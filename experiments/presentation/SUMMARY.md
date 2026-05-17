@@ -7,9 +7,9 @@
 ## TL;DR
 A working pipeline that pulls the live LFT feed and auto-generates
 **copyright-clean** ad creatives — no team logos, kits, players or real
-venues — for **~$0.04 an image**. 12 creative directions approved and
+venues — for **~$0.08 an image**. 12 creative directions approved and
 ready. A full Premier League season costs a few dollars (images are
-reused per team, not regenerated per fixture).
+reused per team, not regenerated per match).
 
 ---
 
@@ -17,9 +17,9 @@ reused per team, not regenerated per fixture).
 - Pulls `livefootballtickets.com/feeds/all-glad.xml`, filters to a league
 - Builds the prompt from feed fields, calls FAL `nano-banana-2`
 - Crops to exact Google asset specs (1200×1200 + 1200×628)
-- Tags each image by team → reused across all that team's fixtures
+- Tags each image by team → reused across all that team's matches
 - Exports a CSV mapping (event → image) for Channable
-- Verified end-to-end on real fixtures (Arsenal v Burnley etc.)
+- Verified end-to-end on real matches (Arsenal v Burnley etc.)
 
 ## The IP problem — solved
 1. Never name the real team/venue in the prompt (model copied real
@@ -31,12 +31,13 @@ reused per team, not regenerated per fixture).
 3. Result: no crests, sponsors, maker logos, player likenesses, real
    venues, or readable signage anywhere.
 
-## Approved creative library (12)
-See `01-head-to-head.png` and `02-stadium-atmosphere.png`.
-- **Head-to-head (7):** halved-kit duel (hero), golden duel, night duel,
-  explosive duel, + 3 foot-vs-foot close-ups
-- **Atmosphere (5):** fan POV, ball in motion, pitch/tunnel, single
-  hero, epic stadium bowl
+## Approved creative library (15, in 3 categories)
+- **Head-to-head (7)** — two teams' colours: halved-kit duel (hero),
+  golden duel, night duel, explosive duel, + 3 foot-vs-foot close-ups
+- **Club Spotlight (4)** — one team's colours: single player hero,
+  home crowd dusk, home crowd golden hour, fan hero daytime
+- **Stadium atmosphere (4)** — fully generic, no team: fan POV, ball
+  in motion, pitch/tunnel, epic stadium bowl
 
 ## How you own it (no coding)
 Two plain files control everything:
@@ -47,13 +48,13 @@ unknown teams auto-looked-up once and cached). All human-editable.
 Repo is Claude-Code-friendly — change behaviour in plain English.
 
 ## Cost
-~$0.04/image. Reuse model = pay once per team, not per fixture →
+~$0.08/image. Reuse model = pay once per team, not per match →
 full PL season ≈ a few dollars, near-zero ongoing.
 
 ## Decisions I need from you
 1. Which style(s) should the full feed run produce? (or all, tagged)
 2. OK to productionise: wire colour map + approved prompt into the
-   pipeline for automatic per-fixture generation?
+   pipeline for automatic per-match generation?
 3. Repo name/owner for GitHub (suggested `Markvdeng/ltf-image-pipeline`)?
 
 ## What's left (small)

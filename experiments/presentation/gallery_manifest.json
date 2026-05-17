@@ -56,6 +56,38 @@
     "reusable": true
   },
   {
+    "file": "arsenal-burnley-4b-hero-2col.png",
+    "style_key": "4b-hero-2col",
+    "title": "Single player hero",
+    "category": "club-spotlight",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-crowd-night.png",
+    "style_key": "crowd-night",
+    "title": "Home crowd - dusk",
+    "category": "club-spotlight",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-crowd-goldenhour.png",
+    "style_key": "crowd-goldenhour",
+    "title": "Home crowd - golden hour",
+    "category": "club-spotlight",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-fan-hero-day.png",
+    "style_key": "fan-hero-day",
+    "title": "Fan hero - daytime",
+    "category": "club-spotlight",
+    "status": "approved",
+    "reusable": true
+  },
+  {
     "file": "arsenal-burnley-B-fan-pov.png",
     "style_key": "B-fan-pov",
     "title": "Fan POV from stands",
@@ -75,14 +107,6 @@
     "file": "arsenal-burnley-3-pitch-tunnel.png",
     "style_key": "3-pitch-tunnel",
     "title": "Pitch / tunnel pre-match",
-    "category": "stadium-atmosphere",
-    "status": "approved",
-    "reusable": true
-  },
-  {
-    "file": "arsenal-burnley-4b-hero-2col.png",
-    "style_key": "4b-hero-2col",
-    "title": "Single hero, golden bowl",
     "category": "stadium-atmosphere",
     "status": "approved",
     "reusable": true

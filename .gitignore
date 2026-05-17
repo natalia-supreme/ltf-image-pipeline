@@ -7,6 +7,9 @@ data/library.json
 data/output.csv
 !data/images/.gitkeep
 
+# macOS junk
+.DS_Store
+
 # Python
 __pycache__/
 *.pyc

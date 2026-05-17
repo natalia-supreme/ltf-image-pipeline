@@ -259,6 +259,57 @@ DIRECTIONS = {
         "scoreboard text, naming-rights signage, team names, or real "
         "player likenesses; no readable text anywhere."
     ),
+
+    # ---- Crowd / fan-culture atmosphere (single team colour) ----
+    "crowd-night": (
+        f"Ultra-photorealistic editorial sports photograph from inside a "
+        f"packed stand at eye level among the home supporters at dusk, "
+        f"floodlights on, deep blue evening sky. A dense, joyous crowd of "
+        f"diverse anonymous fans of all ages in plain solid {HOME_PRIMARY} "
+        f"casual clothing — plain {HOME_PRIMARY} t-shirts, hoodies and "
+        f"jackets, no logos — holding plain {HOME_PRIMARY}-and-"
+        f"{HOME_SECONDARY} scarves stretched overhead with both hands, "
+        f"arms raised, singing, a child on shoulders. The green pitch just "
+        f"visible far below at the edge of frame. Warm stadium light, "
+        f"electric celebratory emotion, gritty documentary realism, "
+        f"shallow depth, cinematic, 8K, Nikon Z9 35mm. CRITICAL IP SAFETY: "
+        f"plain clothing only — no kits, no club crests or badges, no "
+        f"sponsor or maker logos (no Nike/Adidas/Puma marks), no text or "
+        f"emblems on scarves, no advertising boards, no naming-rights "
+        f"signage, no real venue, no real player likenesses."
+    ),
+    "crowd-goldenhour": (
+        f"Ultra-photorealistic editorial sports photograph from inside a "
+        f"packed traditional stand at golden hour, warm low sun, older "
+        f"covered terrace with steel roof girders. A dense crowd of diverse "
+        f"anonymous fans across generations — an older man, a teenager, "
+        f"families — in plain solid {AWAY_PRIMARY} and {AWAY_SECONDARY} "
+        f"casual clothing (plain tops, hoodies, no logos), holding plain "
+        f"{AWAY_PRIMARY}-and-{AWAY_SECONDARY} scarves overhead, clapping, "
+        f"singing, fists raised, glowing backlit by the sunset. The pitch "
+        f"edge visible far left. Nostalgic, emotional, warm cinematic "
+        f"colour, gritty documentary feel, 8K, Nikon Z9 35mm. CRITICAL IP "
+        f"SAFETY: plain clothing only — no kits, no club crests or badges, "
+        f"no sponsor or maker logos, no text or emblems on scarves, no "
+        f"advertising boards, no naming-rights signage, no real venue, no "
+        f"real player likenesses."
+    ),
+    "fan-hero-day": (
+        f"Ultra-photorealistic cinematic sports photograph, dramatic low "
+        f"angle looking slightly up at two or three jubilant anonymous "
+        f"supporters in the stand on a bright sunny day, vivid blue sky "
+        f"with sun flare, a vast modern stadium bowl behind them blurred "
+        f"into glowing bokeh. The fans wear plain solid {HOME_PRIMARY} "
+        f"casual clothing (plain {HOME_PRIMARY} t-shirts/polos, no logos) "
+        f"and one holds a plain {HOME_PRIMARY}-and-{HOME_SECONDARY} scarf "
+        f"stretched high overhead with both arms, mouth open mid-roar, pure "
+        f"elation. Heroic, premium, high-contrast composite look, shallow "
+        f"depth of field, 8K, Nikon Z9 35mm. CRITICAL IP SAFETY: plain "
+        f"clothing only — no kits, no club crests or badges, no sponsor or "
+        f"maker logos, no text or emblems on the scarf, no advertising "
+        f"boards, no naming-rights signage, no real venue, no real player "
+        f"likenesses."
+    ),
 }
 
 SIZE = {"label": "square", "width": 1200, "height": 1200}

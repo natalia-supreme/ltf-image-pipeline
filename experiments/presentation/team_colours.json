@@ -1,0 +1,182 @@
+[
+  {
+    "team": "Arsenal",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Aston Villa",
+    "primary": "claret",
+    "primary_hex": "#6C1D45",
+    "secondary": "sky blue",
+    "secondary_hex": "#6CABDD",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Bournemouth",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "black",
+    "secondary_hex": "#111111",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Brentford",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Brighton & Hove Albion",
+    "primary": "blue",
+    "primary_hex": "#1E4FBF",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Burnley",
+    "primary": "claret",
+    "primary_hex": "#6C1D45",
+    "secondary": "sky blue",
+    "secondary_hex": "#6CABDD",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Chelsea",
+    "primary": "blue",
+    "primary_hex": "#1E4FBF",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Crystal Palace",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "blue",
+    "secondary_hex": "#1E4FBF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Everton",
+    "primary": "blue",
+    "primary_hex": "#1E4FBF",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Fulham",
+    "primary": "white",
+    "primary_hex": "#FFFFFF",
+    "secondary": "black",
+    "secondary_hex": "#111111",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Leeds United",
+    "primary": "white",
+    "primary_hex": "#FFFFFF",
+    "secondary": "blue",
+    "secondary_hex": "#1E4FBF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Liverpool",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Manchester City",
+    "primary": "sky blue",
+    "primary_hex": "#6CABDD",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Manchester United",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Newcastle United",
+    "primary": "black",
+    "primary_hex": "#111111",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Nottingham Forest",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Sunderland",
+    "primary": "red",
+    "primary_hex": "#D00000",
+    "secondary": "white",
+    "secondary_hex": "#FFFFFF",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "primary": "white",
+    "primary_hex": "#FFFFFF",
+    "secondary": "navy",
+    "secondary_hex": "#132257",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "West Ham United",
+    "primary": "claret",
+    "primary_hex": "#6C1D45",
+    "secondary": "sky blue",
+    "secondary_hex": "#6CABDD",
+    "auto": false,
+    "verified": true
+  },
+  {
+    "team": "Wolverhampton Wanderers",
+    "primary": "gold",
+    "primary_hex": "#FDB913",
+    "secondary": "black",
+    "secondary_hex": "#111111",
+    "auto": false,
+    "verified": true
+  }
+]

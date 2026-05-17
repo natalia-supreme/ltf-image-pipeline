@@ -115,7 +115,7 @@ def main() -> None:
     pub_records = [{
         "file_path": r["image_path"],
         "title": r["event_name"],
-        "category": "fixture",
+        "category": "match",
         "style_key": "",
         "status": "pending",
         "reusable": False,

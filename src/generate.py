@@ -18,7 +18,7 @@ import requests
 from PIL import Image
 
 # Rough per-image cost estimate, only used for reporting in the CSV/log.
-ESTIMATED_COST_PER_IMAGE = 0.04
+ESTIMATED_COST_PER_IMAGE = 0.08
 
 
 def _slugify(text: str) -> str:

@@ -63,6 +63,42 @@
     "reusable": true
   },
   {
+    "file": "arsenal-burnley-4b-hero-2col.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-4b-hero-2col.png",
+    "title": "Single player hero",
+    "category": "club-spotlight",
+    "style_key": "4b-hero-2col",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-crowd-night.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-crowd-night.png",
+    "title": "Home crowd - dusk",
+    "category": "club-spotlight",
+    "style_key": "crowd-night",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-crowd-goldenhour.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-crowd-goldenhour.png",
+    "title": "Home crowd - golden hour",
+    "category": "club-spotlight",
+    "style_key": "crowd-goldenhour",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-fan-hero-day.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-fan-hero-day.png",
+    "title": "Fan hero - daytime",
+    "category": "club-spotlight",
+    "style_key": "fan-hero-day",
+    "status": "approved",
+    "reusable": true
+  },
+  {
     "file": "arsenal-burnley-B-fan-pov.png",
     "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-B-fan-pov.png",
     "title": "Fan POV from stands",
@@ -86,15 +122,6 @@
     "title": "Pitch / tunnel pre-match",
     "category": "stadium-atmosphere",
     "style_key": "3-pitch-tunnel",
-    "status": "approved",
-    "reusable": true
-  },
-  {
-    "file": "arsenal-burnley-4b-hero-2col.png",
-    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-4b-hero-2col.png",
-    "title": "Single hero, golden bowl",
-    "category": "stadium-atmosphere",
-    "style_key": "4b-hero-2col",
     "status": "approved",
     "reusable": true
   },

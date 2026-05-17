@@ -33,7 +33,7 @@ def cover():
     d.text((90, 300), "LTF AI Ad-Creative Engine", fill=INK, font=font(64, True))
     d.text((90, 390), "Copyright-clean football creatives, generated from the live feed",
            fill=GREY, font=font(30))
-    d.text((90, 470), "12 approved directions  ·  ~$0.04 / image  ·  IP-safe",
+    d.text((90, 470), "12 approved directions  ·  ~$0.08 / image  ·  IP-safe",
            fill=RED, font=font(28, True))
     d.text((90, H - 110), "Prepared by Natalia  ·  2026-05-17  ·  for Mark",
            fill=GREY, font=font(24))
@@ -76,11 +76,11 @@ summary = text_slide("Summary & Decisions", [
     ("b", "Copyright-clean: no logos, kits, real players, or real venues"),
     ("b", "Invented two-colour kits make teams recognisable but legally distinct"),
     ("h", "Cost"),
-    ("b", "~$0.04 / image. Reuse model: pay once per team, not per fixture"),
+    ("b", "~$0.08 / image. Reuse model: pay once per team, not per match"),
     ("b", "Full Premier League season = a few dollars, near-zero ongoing"),
     ("h", "Decisions I need from you"),
     ("b", "Which approved style(s) should the full feed run produce?"),
-    ("b", "OK to productionise automatic per-fixture generation?"),
+    ("b", "OK to productionise automatic per-match generation?"),
     ("b", "GitHub repo name/owner? (suggest Markvdeng/ltf-image-pipeline)"),
 ])
 
@@ -111,7 +111,7 @@ blocks = [
     ("b", "config.yaml + prompts/football.txt + team_colours.yaml — all plain, editable"),
     ("b", "GitHub repo, Claude-Code-friendly, optional Lovable UI on top"),
     ("h", "Cost"),
-    ("b", "~$0.04/image · reuse model · full PL season ≈ a few dollars"),
+    ("b", "~$0.08/image · reuse model · full PL season ≈ a few dollars"),
     ("h", "Decisions needed"),
     ("b", "Which style(s) for the full run? · Productionise? · GitHub repo name?"),
 ]
