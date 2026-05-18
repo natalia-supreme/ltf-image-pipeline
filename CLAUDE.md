@@ -3,20 +3,30 @@
 This is the LTF AI ad-creative pipeline. If the user (Mark) asks to
 **add, change, disable, or remove an image style**, follow this exactly.
 
-## The one rule: styles live in `styles.yaml`
+## PRIMARY WORKFLOW: new style from a plain-English request
 
-`styles.yaml` is the single source of truth. Never hardcode prompts
-anywhere else. When the user asks for a new/changed style:
+When Mark says something like *"make a head-to-head style that shows
+X"*, do this exactly:
 
-1. **Edit `styles.yaml`** — add or modify a style block (schema below).
-2. **Run:** `python3 build_styles.py` (regenerates `gallery/styles.json`,
-   which the Lovable app reads — the YAML alone does nothing).
-3. **Commit & push:**
-   `git add -A && git commit -m "..." && git push origin main`
-4. Tell the user it will appear as a selectable option in the app
-   within a few minutes (GitHub cache).
+1. **Write `pending_style.yaml`** in the repo root (schema in
+   `pending_style.example.yaml`): key, title, category, has_players,
+   needs, and the prompt (use the placeholders + IP clause below).
+2. **Run:** `python3 style_preview.py`
+   → generates ONE preview image; show it to Mark.
+3. **If Mark does NOT like it:** edit `pending_style.yaml`, go to 2.
+4. **If Mark likes it:** run `python3 style_publish.py`
+   → it appends the style to `styles.yaml`, rebuilds
+   `styles.json`, adds the image to the gallery + manifest, commits,
+   pushes, and clears the staging file. The style then appears as a
+   selectable option in Lovable AND its image shows in the Lovable
+   gallery within a few minutes (GitHub cache).
 
-Do all four every time. Skipping step 2 or 3 means it won't show up.
+That two-script loop is the whole job. Do not hand-edit styles.yaml or
+push manually for new styles — the scripts do it correctly.
+
+For *disabling/removing/tweaking an existing* style: edit `styles.yaml`
+directly, run `python3 build_styles.py`, then
+`git add -A && git commit -m "..." && git push origin main`.
 
 ## Style block schema
 
