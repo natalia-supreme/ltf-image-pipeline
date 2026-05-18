@@ -309,3 +309,38 @@ styles:
       IP SAFETY: invented fictional stadium, no real venue, no club
       logos, crests, sponsor text, advertising, scoreboard text,
       signage, team names, or real player likenesses.
+
+  - key: svs1-rival-split
+    title: "Rival supporters face-off (HEAD-TO-HEAD HERO)"
+    category: head-to-head
+    enabled: true
+    has_players: false
+    needs: [home, away]
+    prompt: |
+      Ultra-photorealistic editorial sports photograph of two rival
+      supporter blocks in a COMPLETELY PACKED stadium at night, every
+      seat and tier filled to the rafters with a massive dense crowd,
+      brilliant blazing floodlights and dramatic light beams cutting
+      through thick atmospheric smoke and haze. The two blocks are in
+      the SAME tiered grandstand at the SAME height, TURNED SIDEWAYS TO
+      FACE EACH OTHER across a narrow central stairway aisle, in a
+      fierce heated explosive face-off — snarling intense expressions,
+      mouths wide mid-roar, fists thrust toward the rival end, furious
+      passionate rivalry energy (NOT physical fighting or violence).
+      LEFT block faces RIGHT: home fans in plain solid {home_primary}
+      and {home_secondary} casual clothing (plain tops/hoodies, no
+      logos) with plain {home_primary}-and-{home_secondary} scarves
+      stretched taut overhead. RIGHT block faces LEFT: away fans
+      mirrored at the same height in plain solid {away_primary} and
+      {away_secondary} clothing with plain
+      {away_primary}-and-{away_secondary} scarves, roaring back. Both
+      groups IN THE STANDS only — nobody on the pitch or floor, no
+      players or grass. Two walls of fans turned inward facing each
+      other, raw electric hostility, deep high-contrast lighting,
+      embers and smoke, epic scale, cinematic, 8K, Nikon Z9 35mm,
+      diverse anonymous faces of all ages, gritty documentary realism.
+      CRITICAL IP SAFETY: plain clothing only, no kits, no club crests
+      or badges, no sponsor, maker or apparel-brand logos (no swoosh,
+      stripes or double-diamond marks), no text or emblems on scarves,
+      no national flags, no advertising boards, no real venue, no real
+      player likenesses, no readable text anywhere.

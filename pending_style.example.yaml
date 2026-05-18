@@ -1,0 +1,16 @@
+# Claude writes a file exactly like this named `pending_style.yaml`
+# (repo root) when Mark asks for a new style, then runs:
+#   python3 style_preview.py     -> makes a preview image to show Mark
+#   python3 style_publish.py     -> (only if Mark likes it) goes live
+key: example-new-style
+title: "Example New Style"
+category: head-to-head        # head-to-head | club-spotlight | stadium-atmosphere
+has_players: false
+needs: [home, away]           # [] | [home] | [home, away]
+prompt: |
+  <full image prompt using {home_primary} {home_secondary}
+  {away_primary} {away_secondary} placeholders>
+  CRITICAL IP SAFETY: plain clothing only, no kits, club crests or
+  badges, no sponsor/maker/apparel-brand logos, no text or emblems on
+  scarves, no national flags, no advertising boards, no real venue, no
+  real player likenesses, no readable text anywhere.

@@ -142,5 +142,14 @@
     "format": "landscape",
     "status": "approved",
     "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-svs1-rival-split.png",
+    "style_key": "svs1-rival-split",
+    "title": "Rival supporters face-off (HEAD-TO-HEAD HERO)",
+    "category": "head-to-head",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
   }
 ]

@@ -162,5 +162,17 @@
     "has_players": false,
     "needs": [],
     "prompt": "Ultra-photorealistic cinematic sports photograph, wide elevated\nhigh-angle view inside a vast generic modern stadium at night,\ncompletely packed, every tier full, brilliant floodlights, lush\ngreen pitch glowing far below, scattered phone-camera flashes like\nstars, haze, deep blue night sky above an open roof. Electric,\nepic scale. 8K, Nikon Z9 24mm wide, slight tilt-shift. CRITICAL\nIP SAFETY: invented fictional stadium, no real venue, no club\nlogos, crests, sponsor text, advertising, scoreboard text,\nsignage, team names, or real player likenesses."
+  },
+  {
+    "key": "svs1-rival-split",
+    "title": "Rival supporters face-off (HEAD-TO-HEAD HERO)",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic editorial sports photograph of two rival\nsupporter blocks in a COMPLETELY PACKED stadium at night, every\nseat and tier filled to the rafters with a massive dense crowd,\nbrilliant blazing floodlights and dramatic light beams cutting\nthrough thick atmospheric smoke and haze. The two blocks are in\nthe SAME tiered grandstand at the SAME height, TURNED SIDEWAYS TO\nFACE EACH OTHER across a narrow central stairway aisle, in a\nfierce heated explosive face-off — snarling intense expressions,\nmouths wide mid-roar, fists thrust toward the rival end, furious\npassionate rivalry energy (NOT physical fighting or violence).\nLEFT block faces RIGHT: home fans in plain solid {home_primary}\nand {home_secondary} casual clothing (plain tops/hoodies, no\nlogos) with plain {home_primary}-and-{home_secondary} scarves\nstretched taut overhead. RIGHT block faces LEFT: away fans\nmirrored at the same height in plain solid {away_primary} and\n{away_secondary} clothing with plain\n{away_primary}-and-{away_secondary} scarves, roaring back. Both\ngroups IN THE STANDS only — nobody on the pitch or floor, no\nplayers or grass. Two walls of fans turned inward facing each\nother, raw electric hostility, deep high-contrast lighting,\nembers and smoke, epic scale, cinematic, 8K, Nikon Z9 35mm,\ndiverse anonymous faces of all ages, gritty documentary realism.\nCRITICAL IP SAFETY: plain clothing only, no kits, no club crests\nor badges, no sponsor, maker or apparel-brand logos (no swoosh,\nstripes or double-diamond marks), no text or emblems on scarves,\nno national flags, no advertising boards, no real venue, no real\nplayer likenesses, no readable text anywhere."
   }
 ]
