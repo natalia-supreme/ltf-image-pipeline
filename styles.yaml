@@ -344,3 +344,143 @@ styles:
       stripes or double-diamond marks), no text or emblems on scarves,
       no national flags, no advertising boards, no real venue, no real
       player likenesses, no readable text anywhere.
+
+  - key: c1-ticket-hero
+    title: "The ticket as hero"
+    category: club-spotlight
+    enabled: true
+    has_players: false
+    needs: [home, away]
+    prompt: |
+      Ultra-photorealistic cinematic product photograph: a single
+      generic unbranded paper match ticket with a tear-off stub held
+      up between fingers, sharp in the foreground, against a vast
+      blurred floodlit stadium at dusk dissolved into glowing bokeh.
+      The ticket is split into a {home_primary} colour block and an
+      {away_primary} colour block with the only printed words
+      'MATCH TICKET' and a generic seat/row number; a plain
+      perforation line. Warm rim light, shallow depth of field,
+      premium 8K, Nikon Z9 100mm. CRITICAL IP SAFETY: NO club or
+      competition names, NO team names, NO logos, crests, sponsor or
+      maker marks, NO real barcode, NO real venue; the only text
+      anywhere is the generic 'MATCH TICKET' and a seat number.
+
+  - key: c3-tifo
+    title: "Tifo / fan choreography"
+    category: head-to-head
+    enabled: true
+    has_players: false
+    needs: [home, away]
+    prompt: |
+      Ultra-photorealistic editorial sports photograph of a single
+      vast packed grandstand at night where the entire crowd holds up
+      coloured cards forming a huge bold ABSTRACT GEOMETRIC mosaic
+      (blocks, chevrons, diagonal bands) in {home_primary},
+      {home_secondary}, {away_primary} and {away_secondary}, plus a
+      few large hand-held flags and banners in the same plain colours.
+      Floodlit, smoke haze, epic scale, cinematic, 8K, Nikon Z9 24mm.
+      CRITICAL: the mosaic is PURELY ABSTRACT colour geometry — it
+      must NOT spell any word, letter, club name or form any crest,
+      logo or recognisable real tifo. No sponsor text, no real venue,
+      no real player likeness, no readable text.
+
+  - key: c8-ball-trail
+    title: "Motion-trail abstract ball"
+    category: stadium-atmosphere
+    enabled: true
+    has_players: false
+    needs: [home, away]
+    prompt: |
+      Ultra-photorealistic high-energy sports visual: a plain
+      unbranded white-and-black football streaking across a dark
+      dramatic background, frozen mid-flight with an explosive dynamic
+      motion trail of light and energy in {home_primary} and
+      {away_primary} sweeping behind it, sparks and particles, sharp
+      ball, intense rim light. Betting-ad punchy, 8K, Nikon Z9 200mm.
+      CRITICAL IP SAFETY: plain ball with no brand or maker mark, no
+      logos, crests, sponsor text, real venue, real player likeness,
+      or readable text anywhere.
+
+  - key: d1-drummer
+    title: "Drummer / capo"
+    category: club-spotlight
+    enabled: true
+    has_players: false
+    needs: [home]
+    prompt: |
+      Ultra-photorealistic editorial sports photograph: a passionate
+      anonymous supporter mid-beat on a large plain unbranded drum at
+      the front of a packed singing section, behind him a dense crowd
+      in plain solid {home_primary} and {home_secondary} casual
+      clothing with plain {home_primary}-and-{home_secondary} scarves
+      raised, mouths open chanting, floodlit night, haze. Gritty
+      documentary realism, 8K, Nikon Z9 35mm. CRITICAL IP SAFETY:
+      plain clothing and plain drum only, no kits, club crests,
+      sponsor/maker logos, text or emblems on scarves or drum, no
+      real venue, no real player likeness, no readable text.
+
+  - key: d2-smoke-wall
+    title: "Smoke colour wall"
+    category: head-to-head
+    enabled: true
+    has_players: false
+    needs: [home, away]
+    prompt: |
+      Ultra-photorealistic editorial sports photograph: a packed
+      stand engulfed in thick celebratory coloured smoke in
+      {home_primary}, {home_secondary}, {away_primary} and
+      {away_secondary}, silhouetted fans with arms and scarves raised
+      emerging through the haze, floodlight beams cutting the smoke,
+      euphoric celebratory mood (festive smoke, NOT fire or danger).
+      Epic, atmospheric, cinematic, 8K, Nikon Z9 35mm. CRITICAL IP
+      SAFETY: plain clothing only, no kits, club crests, sponsor or
+      maker logos, text or emblems on scarves, no real venue, no real
+      player likeness, no readable text anywhere.
+
+  - key: d9-countdown
+    title: "Countdown / scoreboard"
+    category: head-to-head
+    enabled: true
+    has_players: false
+    needs: [home, away]
+    prompt: |
+      Cinematic photograph of a giant generic stadium scoreboard
+      clock glowing in the dark, large digital numerals reading
+      "00:00", a thin {home_primary} bar on the left and
+      {away_primary} bar on the right, a silhouetted packed stand
+      below in haze, dramatic anticipation and urgency. 8K, Nikon Z9
+      85mm. CRITICAL: the ONLY characters shown are the time 00:00 —
+      no club or competition names, no scores, no logos, crests,
+      sponsor text, real venue, real player likeness, or any other
+      readable text anywhere.
+
+  - key: d1hh-drummer-vs
+    title: "Drummer head-to-head (split diptych)"
+    category: head-to-head
+    enabled: true
+    has_players: false
+    needs: [home, away]
+    prompt: |
+      A split-screen diptych key visual made of TWO separate
+      ultra-photorealistic matchday photographs joined side by side,
+      divided ONLY by a clean thin vertical glowing light seam down
+      the exact centre (NO fence, NO barrier, NO stewards) — clearly
+      two shots taken from different corners of the same stadium.
+      LEFT photo, drummer CENTERED in the left half: a passionate
+      anonymous fan mid-beat on a large plain unbranded drum, behind
+      him a dense floodlit crowd in plain solid {home_primary} and
+      {home_secondary} casual clothing with plain
+      {home_primary}-and-{home_secondary} scarves and flags raised,
+      mouths open chanting, night, haze. RIGHT photo, drummer
+      CENTERED in the right half: a mirrored opposing fan mid-beat on
+      a plain unbranded drum, behind him a dense floodlit crowd in
+      plain solid {away_primary} and {away_secondary} casual clothing
+      with plain {away_primary}-and-{away_secondary} scarves and
+      flags raised. Both halves the same energetic composition and
+      lighting, each drummer prominent and centred in its own half,
+      bright central light burst on the seam. Gritty documentary
+      realism, cinematic, 8K, Nikon Z9 35mm, diverse anonymous faces.
+      CRITICAL IP SAFETY: plain clothing and plain drums only, no
+      kits, club crests, sponsor/maker logos, no text or emblems on
+      scarves, drums or flags, no real venue, no real player
+      likeness, no readable text anywhere.

@@ -174,5 +174,88 @@
       "away"
     ],
     "prompt": "Ultra-photorealistic editorial sports photograph of two rival\nsupporter blocks in a COMPLETELY PACKED stadium at night, every\nseat and tier filled to the rafters with a massive dense crowd,\nbrilliant blazing floodlights and dramatic light beams cutting\nthrough thick atmospheric smoke and haze. The two blocks are in\nthe SAME tiered grandstand at the SAME height, TURNED SIDEWAYS TO\nFACE EACH OTHER across a narrow central stairway aisle, in a\nfierce heated explosive face-off — snarling intense expressions,\nmouths wide mid-roar, fists thrust toward the rival end, furious\npassionate rivalry energy (NOT physical fighting or violence).\nLEFT block faces RIGHT: home fans in plain solid {home_primary}\nand {home_secondary} casual clothing (plain tops/hoodies, no\nlogos) with plain {home_primary}-and-{home_secondary} scarves\nstretched taut overhead. RIGHT block faces LEFT: away fans\nmirrored at the same height in plain solid {away_primary} and\n{away_secondary} clothing with plain\n{away_primary}-and-{away_secondary} scarves, roaring back. Both\ngroups IN THE STANDS only — nobody on the pitch or floor, no\nplayers or grass. Two walls of fans turned inward facing each\nother, raw electric hostility, deep high-contrast lighting,\nembers and smoke, epic scale, cinematic, 8K, Nikon Z9 35mm,\ndiverse anonymous faces of all ages, gritty documentary realism.\nCRITICAL IP SAFETY: plain clothing only, no kits, no club crests\nor badges, no sponsor, maker or apparel-brand logos (no swoosh,\nstripes or double-diamond marks), no text or emblems on scarves,\nno national flags, no advertising boards, no real venue, no real\nplayer likenesses, no readable text anywhere."
+  },
+  {
+    "key": "c1-ticket-hero",
+    "title": "The ticket as hero",
+    "category": "club-spotlight",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic product photograph: a single\ngeneric unbranded paper match ticket with a tear-off stub held\nup between fingers, sharp in the foreground, against a vast\nblurred floodlit stadium at dusk dissolved into glowing bokeh.\nThe ticket is split into a {home_primary} colour block and an\n{away_primary} colour block with the only printed words\n'MATCH TICKET' and a generic seat/row number; a plain\nperforation line. Warm rim light, shallow depth of field,\npremium 8K, Nikon Z9 100mm. CRITICAL IP SAFETY: NO club or\ncompetition names, NO team names, NO logos, crests, sponsor or\nmaker marks, NO real barcode, NO real venue; the only text\nanywhere is the generic 'MATCH TICKET' and a seat number."
+  },
+  {
+    "key": "c3-tifo",
+    "title": "Tifo / fan choreography",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic editorial sports photograph of a single\nvast packed grandstand at night where the entire crowd holds up\ncoloured cards forming a huge bold ABSTRACT GEOMETRIC mosaic\n(blocks, chevrons, diagonal bands) in {home_primary},\n{home_secondary}, {away_primary} and {away_secondary}, plus a\nfew large hand-held flags and banners in the same plain colours.\nFloodlit, smoke haze, epic scale, cinematic, 8K, Nikon Z9 24mm.\nCRITICAL: the mosaic is PURELY ABSTRACT colour geometry — it\nmust NOT spell any word, letter, club name or form any crest,\nlogo or recognisable real tifo. No sponsor text, no real venue,\nno real player likeness, no readable text."
+  },
+  {
+    "key": "c8-ball-trail",
+    "title": "Motion-trail abstract ball",
+    "category": "stadium-atmosphere",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic high-energy sports visual: a plain\nunbranded white-and-black football streaking across a dark\ndramatic background, frozen mid-flight with an explosive dynamic\nmotion trail of light and energy in {home_primary} and\n{away_primary} sweeping behind it, sparks and particles, sharp\nball, intense rim light. Betting-ad punchy, 8K, Nikon Z9 200mm.\nCRITICAL IP SAFETY: plain ball with no brand or maker mark, no\nlogos, crests, sponsor text, real venue, real player likeness,\nor readable text anywhere."
+  },
+  {
+    "key": "d1-drummer",
+    "title": "Drummer / capo",
+    "category": "club-spotlight",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home"
+    ],
+    "prompt": "Ultra-photorealistic editorial sports photograph: a passionate\nanonymous supporter mid-beat on a large plain unbranded drum at\nthe front of a packed singing section, behind him a dense crowd\nin plain solid {home_primary} and {home_secondary} casual\nclothing with plain {home_primary}-and-{home_secondary} scarves\nraised, mouths open chanting, floodlit night, haze. Gritty\ndocumentary realism, 8K, Nikon Z9 35mm. CRITICAL IP SAFETY:\nplain clothing and plain drum only, no kits, club crests,\nsponsor/maker logos, text or emblems on scarves or drum, no\nreal venue, no real player likeness, no readable text."
+  },
+  {
+    "key": "d2-smoke-wall",
+    "title": "Smoke colour wall",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic editorial sports photograph: a packed\nstand engulfed in thick celebratory coloured smoke in\n{home_primary}, {home_secondary}, {away_primary} and\n{away_secondary}, silhouetted fans with arms and scarves raised\nemerging through the haze, floodlight beams cutting the smoke,\neuphoric celebratory mood (festive smoke, NOT fire or danger).\nEpic, atmospheric, cinematic, 8K, Nikon Z9 35mm. CRITICAL IP\nSAFETY: plain clothing only, no kits, club crests, sponsor or\nmaker logos, text or emblems on scarves, no real venue, no real\nplayer likeness, no readable text anywhere."
+  },
+  {
+    "key": "d9-countdown",
+    "title": "Countdown / scoreboard",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Cinematic photograph of a giant generic stadium scoreboard\nclock glowing in the dark, large digital numerals reading\n\"00:00\", a thin {home_primary} bar on the left and\n{away_primary} bar on the right, a silhouetted packed stand\nbelow in haze, dramatic anticipation and urgency. 8K, Nikon Z9\n85mm. CRITICAL: the ONLY characters shown are the time 00:00 —\nno club or competition names, no scores, no logos, crests,\nsponsor text, real venue, real player likeness, or any other\nreadable text anywhere."
+  },
+  {
+    "key": "d1hh-drummer-vs",
+    "title": "Drummer head-to-head (split diptych)",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "A split-screen diptych key visual made of TWO separate\nultra-photorealistic matchday photographs joined side by side,\ndivided ONLY by a clean thin vertical glowing light seam down\nthe exact centre (NO fence, NO barrier, NO stewards) — clearly\ntwo shots taken from different corners of the same stadium.\nLEFT photo, drummer CENTERED in the left half: a passionate\nanonymous fan mid-beat on a large plain unbranded drum, behind\nhim a dense floodlit crowd in plain solid {home_primary} and\n{home_secondary} casual clothing with plain\n{home_primary}-and-{home_secondary} scarves and flags raised,\nmouths open chanting, night, haze. RIGHT photo, drummer\nCENTERED in the right half: a mirrored opposing fan mid-beat on\na plain unbranded drum, behind him a dense floodlit crowd in\nplain solid {away_primary} and {away_secondary} casual clothing\nwith plain {away_primary}-and-{away_secondary} scarves and\nflags raised. Both halves the same energetic composition and\nlighting, each drummer prominent and centred in its own half,\nbright central light burst on the seam. Gritty documentary\nrealism, cinematic, 8K, Nikon Z9 35mm, diverse anonymous faces.\nCRITICAL IP SAFETY: plain clothing and plain drums only, no\nkits, club crests, sponsor/maker logos, no text or emblems on\nscarves, drums or flags, no real venue, no real player\nlikeness, no readable text anywhere."
   }
 ]

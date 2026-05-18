@@ -151,5 +151,68 @@
     "format": "square",
     "status": "approved",
     "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-c1-ticket-hero.png",
+    "style_key": "c1-ticket-hero",
+    "title": "The ticket as hero",
+    "category": "club-spotlight",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-c3-tifo.png",
+    "style_key": "c3-tifo",
+    "title": "Tifo / fan choreography",
+    "category": "head-to-head",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-c8-ball-trail.png",
+    "style_key": "c8-ball-trail",
+    "title": "Motion-trail abstract ball",
+    "category": "stadium-atmosphere",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d1-drummer.png",
+    "style_key": "d1-drummer",
+    "title": "Drummer / capo",
+    "category": "club-spotlight",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d2-smoke-wall.png",
+    "style_key": "d2-smoke-wall",
+    "title": "Smoke colour wall",
+    "category": "head-to-head",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d9-countdown.png",
+    "style_key": "d9-countdown",
+    "title": "Countdown / scoreboard",
+    "category": "head-to-head",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d1hh-drummer-vs.png",
+    "style_key": "d1hh-drummer-vs",
+    "title": "Drummer head-to-head (split diptych)",
+    "category": "head-to-head",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
   }
 ]

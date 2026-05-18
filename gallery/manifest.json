@@ -168,5 +168,75 @@
     "format": "square",
     "status": "approved",
     "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-c1-ticket-hero.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-c1-ticket-hero.png",
+    "title": "The ticket as hero",
+    "category": "club-spotlight",
+    "style_key": "c1-ticket-hero",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-c3-tifo.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-c3-tifo.png",
+    "title": "Tifo / fan choreography",
+    "category": "head-to-head",
+    "style_key": "c3-tifo",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-c8-ball-trail.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-c8-ball-trail.png",
+    "title": "Motion-trail abstract ball",
+    "category": "stadium-atmosphere",
+    "style_key": "c8-ball-trail",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d1-drummer.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-d1-drummer.png",
+    "title": "Drummer / capo",
+    "category": "club-spotlight",
+    "style_key": "d1-drummer",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d2-smoke-wall.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-d2-smoke-wall.png",
+    "title": "Smoke colour wall",
+    "category": "head-to-head",
+    "style_key": "d2-smoke-wall",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d9-countdown.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-d9-countdown.png",
+    "title": "Countdown / scoreboard",
+    "category": "head-to-head",
+    "style_key": "d9-countdown",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
+  },
+  {
+    "file": "arsenal-burnley-d1hh-drummer-vs.png",
+    "url": "https://raw.githubusercontent.com/natalia-supreme/ltf-image-pipeline/main/gallery/arsenal-burnley-d1hh-drummer-vs.png",
+    "title": "Drummer head-to-head (split diptych)",
+    "category": "head-to-head",
+    "style_key": "d1hh-drummer-vs",
+    "format": "square",
+    "status": "approved",
+    "reusable": true
   }
 ]
