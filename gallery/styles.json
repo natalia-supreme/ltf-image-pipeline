@@ -1,0 +1,166 @@
+[
+  {
+    "key": "F-twocolour-duel",
+    "title": "Halved-kit duel (HERO)",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": true,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, dramatic low\npitch-level angle. Two anonymous footballers competing for a plain\nunbranded white-and-black football, explosive mid-action, motion\nblur, turf spray. Player one wears an invented non-official kit:\nbold 50/50 vertical halved shirt, left half {home_primary}, right\nhalf {home_secondary}, plain white number, {home_primary} shorts\nwith {home_secondary} side stripe, {home_primary} socks with\n{home_secondary} band. Player two: same invented style in\n{away_primary} / {away_secondary}. Vast modern stadium bowl,\nblurred glowing crowd, golden-hour sun flare, sparks, lush pitch.\nPremium high-contrast 8K, Nikon Z9 35mm, shallow depth of field.\nCRITICAL IP SAFETY: no real team kit, no club logos, crests,\nsponsor text, maker marks, team names, advertising, or real\nplayer likenesses. Only a plain squad number is allowed."
+  },
+  {
+    "key": "2-golden-duel-2col",
+    "title": "Golden-hour duel",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": true,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, tight dynamic\nlower-body action crop, low pitch-level angle. Two anonymous\nfootballers competing for a plain unbranded white-and-black ball,\nmotion blur, turf spray. Player one invented halved kit\n{home_primary}/{home_secondary}; player two\n{away_primary}/{away_secondary} (plain number, side-stripe shorts,\nbanded socks). Golden-hour sun flare behind a vast stadium bowl,\nblurred crowd, haze, sparks. Premium 8K, Nikon Z9 35mm.\nCRITICAL IP SAFETY: no real team kit, club logos, crests, sponsor\ntext, team names, advertising, or real player likenesses."
+  },
+  {
+    "key": "3-night-duel-2col",
+    "title": "Night floodlit duel",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": true,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, moody NIGHT\nmatch under white floodlights. Two anonymous footballers\ncompeting for a plain unbranded ball, explosive action, motion\nblur, turf spray, volumetric light shafts, fog, sparks. Player\none invented halved kit {home_primary}/{home_secondary}; player\ntwo {away_primary}/{away_secondary}. Vast dark stadium bowl,\nblurred crowd, deep blue night sky. 8K, Nikon Z9 35mm.\nCRITICAL IP SAFETY: no real team kit, club logos, crests, sponsor\ntext, team names, advertising, or real player likenesses."
+  },
+  {
+    "key": "4-explosive-duel-2col",
+    "title": "Explosive low-angle duel",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": true,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, very low\nground-level angle, the most explosive 1v1 duel: two anonymous\nfootballers lunging for a plain unbranded ball low between them,\nhuge turf and water spray, strong motion blur. Player one\ninvented halved kit {home_primary}/{home_secondary}; player two\n{away_primary}/{away_secondary}. Vast stadium at night, blurred\ncrowd, floodlights, sparks. 8K, Nikon Z9 35mm.\nCRITICAL IP SAFETY: no real team kit, club logos, crests, sponsor\ntext, team names, advertising, or real player likenesses."
+  },
+  {
+    "key": "foot-v1-flare",
+    "title": "Foot v foot — sun flare",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, extreme\nclose-up at grass level: two opposing players' boots meeting over\na plain unbranded white-and-black football on dewy grass, one\nboot on top of the ball. Left sock solid {home_primary} with a\n{home_secondary} band; right sock solid {away_primary} with an\n{away_secondary} band. Vast stadium blurred to glowing bokeh,\nfloodlights and bright central sun flare, droplets, particles,\nshallow depth of field. 8K, Nikon Z9 100mm macro.\nCRITICAL IP SAFETY: plain ball and boots, no brand, logos,\nsponsor text, crests, advertising, team names, or real player\nlikenesses."
+  },
+  {
+    "key": "foot-v3-strike",
+    "title": "Foot v foot — strike clash",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, dynamic\nclose-up low angle: the instant two opposing players' boots clash\nat a plain unbranded ball on dewy grass, slight motion blur, turf\nand water exploding off the ball. Left sock solid {home_primary}\nwith {home_secondary} band; right sock solid {away_primary} with\n{away_secondary} band. Golden-hour sun flare, vast stadium bokeh,\nsparks, haze. 8K, Nikon Z9 100mm.\nCRITICAL IP SAFETY: plain ball and boots, no brand, logos,\nsponsor text, crests, advertising, team names, or real player\nlikenesses."
+  },
+  {
+    "key": "foot-v4-groundlevel",
+    "title": "Foot v foot — ground level",
+    "category": "head-to-head",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home",
+      "away"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, ultra-low\ncamera on the turf: a plain unbranded ball huge in the foreground\nwith two pairs of players' lower legs and boots framing it. Left\nlegs in solid {home_primary} socks with {home_secondary} band;\nright legs in solid {away_primary} socks with {away_secondary}\nband. Vast packed stadium at dusk dissolved to bokeh, floodlight\nstarbursts, warm sky, particles. 8K, Nikon Z9 24mm low macro.\nCRITICAL IP SAFETY: plain ball and boots, no brand, logos,\nsponsor text, crests, advertising, team names, or real player\nlikenesses."
+  },
+  {
+    "key": "4b-hero-2col",
+    "title": "Single player hero",
+    "category": "club-spotlight",
+    "enabled": true,
+    "has_players": true,
+    "needs": [
+      "home"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, dramatic low\npitch-level angle. A single anonymous footballer mid-strike\nkicking a plain unbranded ball, motion blur, turf spray. Invented\nhalved kit: left half {home_primary}, right half {home_secondary},\nplain number, {home_primary} shorts with {home_secondary} stripe,\n{home_primary} socks with {home_secondary} band. Vast stadium\nbowl, blurred glowing crowd, golden-hour flare, sparks. 8K,\nNikon Z9 35mm. CRITICAL IP SAFETY: no real team kit, club logos,\ncrests, sponsor text, team names, advertising, or real player\nlikenesses."
+  },
+  {
+    "key": "crowd-night",
+    "title": "Home crowd — dusk",
+    "category": "club-spotlight",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home"
+    ],
+    "prompt": "Ultra-photorealistic editorial sports photograph from inside a\npacked stand at eye level among home supporters at dusk,\nfloodlights on, deep blue sky. A dense joyous crowd of diverse\nanonymous fans of all ages in plain solid {home_primary} casual\nclothing (plain tops/hoodies, no logos) holding plain\n{home_primary}-and-{home_secondary} scarves overhead, arms\nraised, singing, a child on shoulders. Green pitch just visible\nfar below. Electric emotion, gritty documentary, 8K, Nikon Z9\n35mm. CRITICAL IP SAFETY: plain clothing only, no kits, club\ncrests, sponsor or maker logos, text/emblems on scarves,\nadvertising, real venue, or real player likenesses."
+  },
+  {
+    "key": "crowd-goldenhour",
+    "title": "Home crowd — golden hour",
+    "category": "club-spotlight",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home"
+    ],
+    "prompt": "Ultra-photorealistic editorial sports photograph from inside a\npacked traditional stand at golden hour, warm low sun, steel-roof\nterrace. A dense crowd of diverse anonymous fans across\ngenerations in plain solid {home_primary} and {home_secondary}\ncasual clothing (no logos), holding plain\n{home_primary}-and-{home_secondary} scarves overhead, clapping,\nsinging, backlit by the sunset. Pitch edge visible far left.\nNostalgic, emotional, warm cinematic, 8K, Nikon Z9 35mm.\nCRITICAL IP SAFETY: plain clothing only, no kits, club crests,\nsponsor or maker logos, text/emblems on scarves, advertising,\nreal venue, or real player likenesses."
+  },
+  {
+    "key": "fan-hero-day",
+    "title": "Fan hero — daytime",
+    "category": "club-spotlight",
+    "enabled": true,
+    "has_players": false,
+    "needs": [
+      "home"
+    ],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, dramatic low\nangle looking up at two or three jubilant anonymous supporters in\nthe stand on a bright sunny day, vivid blue sky with sun flare, a\nvast modern stadium bowl behind blurred to glowing bokeh. Fans in\nplain solid {home_primary} casual clothing (no logos); one holds\na plain {home_primary}-and-{home_secondary} scarf stretched high\noverhead, mid-roar, pure elation. Heroic premium composite, 8K,\nNikon Z9 35mm. CRITICAL IP SAFETY: plain clothing only, no kits,\nclub crests, sponsor or maker logos, text/emblems on the scarf,\nadvertising, real venue, or real player likenesses."
+  },
+  {
+    "key": "B-fan-pov",
+    "title": "Fan POV from stands",
+    "category": "stadium-atmosphere",
+    "enabled": true,
+    "has_players": false,
+    "needs": [],
+    "prompt": "Ultra-photorealistic editorial sports photograph from deep in the\nstands of a large modern stadium at night, over the dark\nsilhouetted backs and raised arms of a dense crowd, down onto a\nbrilliant green floodlit pitch far below with tiny distant\nanonymous players mid-game. Plain scarves and flags overhead with\nNO text or emblems, phones raised, electric atmosphere, haze in\nthe floodlight beams. Foreground fans in shadow as silhouettes.\nCinematic, gritty, 8K, Nikon Z9 24mm. CRITICAL IP SAFETY: no club\nlogos, crests, text on scarves/flags, sponsor text, advertising,\nnaming-rights signage, or real player likenesses."
+  },
+  {
+    "key": "A-ball-motion",
+    "title": "Cinematic ball in motion",
+    "category": "stadium-atmosphere",
+    "enabled": true,
+    "has_players": false,
+    "needs": [],
+    "prompt": "Ultra-photorealistic cinematic sports photograph: extreme\nclose-up of a plain unbranded white-and-black football frozen in\nmid-air just after being struck, sharp motion blur, water and\nturf particles spraying off it. Behind, a huge modern stadium at\nnight fully out of focus into creamy bokeh, blurred crowd lights,\nfloodlight flare, warm sparks. Shallow depth of field, dramatic\nbacklight, low angle, 8K, Nikon Z9 200mm f/2. CRITICAL IP SAFETY:\nplain ball, no brand, maker mark or logo; no crests, sponsor\ntext, advertising, readable signage, people in focus, or real\nplayer likenesses."
+  },
+  {
+    "key": "3-pitch-tunnel",
+    "title": "Pitch / tunnel pre-match",
+    "category": "stadium-atmosphere",
+    "enabled": true,
+    "has_players": false,
+    "needs": [],
+    "prompt": "Ultra-photorealistic editorial photograph from pitch level inside\na large modern generic stadium before kickoff. View from the dark\nplayers' tunnel toward a perfectly mown empty green pitch under\nintense white floodlights. Tiered stands fill with blurred\ndistant supporters, dramatic light shafts, lens flare, faint mist,\nquiet anticipation. Nikon Z9 24mm wide, dark foreground,\ncinematic, 8K. CRITICAL IP SAFETY: invented generic stadium, no\nreal venue, no club logos, crests, sponsor text, advertising,\nbranded kits, signage, team names, or real player likenesses."
+  },
+  {
+    "key": "5b-epic-bowl",
+    "title": "Epic wide stadium bowl",
+    "category": "stadium-atmosphere",
+    "enabled": true,
+    "has_players": false,
+    "needs": [],
+    "prompt": "Ultra-photorealistic cinematic sports photograph, wide elevated\nhigh-angle view inside a vast generic modern stadium at night,\ncompletely packed, every tier full, brilliant floodlights, lush\ngreen pitch glowing far below, scattered phone-camera flashes like\nstars, haze, deep blue night sky above an open roof. Electric,\nepic scale. 8K, Nikon Z9 24mm wide, slight tilt-shift. CRITICAL\nIP SAFETY: invented fictional stadium, no real venue, no club\nlogos, crests, sponsor text, advertising, scoreboard text,\nsignage, team names, or real player likenesses."
+  }
+]
